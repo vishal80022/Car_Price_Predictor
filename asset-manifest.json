@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/car-price-predictor/static/css/main.df2e4015.css",
+    "main.js": "/car-price-predictor/static/js/main.e9874a5f.js",
+    "index.html": "/car-price-predictor/index.html",
+    "main.df2e4015.css.map": "/car-price-predictor/static/css/main.df2e4015.css.map",
+    "main.e9874a5f.js.map": "/car-price-predictor/static/js/main.e9874a5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df2e4015.css",
+    "static/js/main.e9874a5f.js"
+  ]
+}

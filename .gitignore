@@ -1,0 +1,38 @@
+# # Dependencies
+# /node_modules
+# /frontend/node_modules
+# /backend/venv
+
+# # React build output
+# /frontend/build
+
+# # Python cache
+# __pycache__/
+# *.pyc
+# *.pyo
+# *.pyd
+
+# # IDE
+# .idea/
+# .vscode/
+Python virtual environment
+
+.venv
+venv/
+*.pyc
+pycache/
+
+Node.js dependencies
+
+node_modules/
+frontend/node_modules/
+frontend/build/
+
+IDE files
+
+.idea/
+.vscode/
+
+Operating System files
+
+.DS_Store
